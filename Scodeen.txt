@@ -1,3 +1,3 @@
 Python 
-Manual Testing 
+Manual
 Automation Testing 
